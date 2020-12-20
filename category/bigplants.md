@@ -1,5 +1,5 @@
 ---
-title: Big plants\nWhy not
+title: Big plants Why not
 layout: category
 order: 1
 section: Store
